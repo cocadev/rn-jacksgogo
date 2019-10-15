@@ -17,7 +17,7 @@ import { commonStyles } from '../../common/commonStyles';
 class SignIn extends React.Component {
 
     state = {
-        Username: "Dong", // Mong, Mongr, Song, Kong, Gong, Yong, Dong, dev122@bot.com
+        Username: "Mong", // Mong, Mongr, Song, Kong, Gong, Yong, Dong, dev122@bot.com
         Password: '123qwe!@#QWE', //123qwe!@#QWE, Abc123!@#
         isWaiting: false,
     }

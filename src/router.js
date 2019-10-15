@@ -39,7 +39,7 @@ import EditPayment from './screens/Profile/editpayment'
 
 import { KeyboardAvoidingView, Platform } from 'react-native'
 import { Actions, Scene, Router } from 'react-native-router-flux'
-import { Font } from 'expo'
+import * as Font from 'expo-font'
 import ChooseCountry from './screens/Profile/choosecountry';
 
 //Job
@@ -90,17 +90,7 @@ export default class App extends PureComponent {
       'Muli-SemiBold': require('../assets/fonts/Muli-SemiBold.ttf'),
       'Muli': require('../assets/fonts/Muli.ttf'),
       'Princess': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'evilicons': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'foundation': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'material-community': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'material': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'entypo': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'ionicons': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'simple-line-icons': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'FontAwesome': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'feather': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'AvenirNext-Medium': require('../assets/fonts/PrincessSofia-Regular.ttf'),
-      'rockwell': require('../assets/fonts/Muli.ttf'),
+     
       
 
     });

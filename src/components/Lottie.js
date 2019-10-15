@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, View, Dimensions } from 'react-native';
-import { DangerZone } from 'expo';
-const { Lottie } = DangerZone;
+import Lottie from 'lottie-react-native';
 const window = Dimensions.get('window');
 
 import LOADING from "../utils/reload.json";
