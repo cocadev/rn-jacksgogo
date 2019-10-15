@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { View, StyleSheet, Image, Text, TextInput, TouchableOpacity, Modal, ToastAndroid } from 'react-native';
-import { Flex } from 'antd-mobile-rn';
+import { Flex } from '@ant-design/react-native';
 import { colors } from '../../common/colors';
 import { texts } from '../../common/texts';
 import { FontAwesome } from '@expo/vector-icons';

@@ -1,6 +1,6 @@
 import React from 'react';
 import { ScrollView, View, Text, ImageBackground, StyleSheet, TouchableOpacity } from 'react-native';
-import { Flex, WingBlank, WhiteSpace } from 'antd-mobile-rn';
+import { Flex, WingBlank, WhiteSpace } from '@ant-design/react-native';
 import { colors } from '../../common/colors';
 import { Foundation } from '@expo/vector-icons';
 import { texts } from '../../common/texts';

@@ -3,7 +3,7 @@ import Header from "../../components/Header"
 import { View, TextInput, Text, StyleSheet, TouchableOpacity, Image, KeyboardAvoidingView, Modal  } from "react-native"
 import { texts } from "../../common/texts"
 import { colors } from "../../common/colors"
-import { WhiteSpace, Toast, } from "antd-mobile-rn"
+import { WhiteSpace, Toast, } from "@ant-design/react-native"
 import { images } from "../../common/images";
 import { Actions } from "react-native-router-flux"
 import Stripe from 'react-native-stripe-api';

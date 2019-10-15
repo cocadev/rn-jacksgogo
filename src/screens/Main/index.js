@@ -1,6 +1,6 @@
 import React from "react";
 import { View, Text, StyleSheet, TouchableOpacity } from "react-native";
-import { Modal, Button, WingBlank, Flex } from "antd-mobile-rn";
+import { Modal, Button, WingBlank, Flex } from "@ant-design/react-native";
 import { Entypo } from "@expo/vector-icons";
 import { colors } from "../../common/colors";
 import { texts } from "../../common/texts";

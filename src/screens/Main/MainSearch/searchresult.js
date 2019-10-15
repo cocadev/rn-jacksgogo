@@ -4,7 +4,7 @@ import MainListItem from '../../../components/MainListItem';
 import Header from '../../../components/Header';
 
 import { View, Text, FlatList, StyleSheet, ScrollView, TouchableOpacity, Image } from 'react-native';
-import { Flex } from 'antd-mobile-rn';
+import { Flex } from '@ant-design/react-native';
 import { Entypo, MaterialCommunityIcons, FontAwesome, EvilIcons } from '@expo/vector-icons';
 import { colors } from '../../../common/colors';
 import { texts } from '../../../common/texts';

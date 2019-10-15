@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { Text } from 'react-native';
-import { Flex } from 'antd-mobile-rn';
+import { Flex } from '@ant-design/react-native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { colors } from '../common/colors';
 

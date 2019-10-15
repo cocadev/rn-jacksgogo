@@ -3,7 +3,7 @@ import Bar from "../../components/Bar"
 import { ScrollView, Platform, View, TextInput, Text, StyleSheet, TouchableOpacity, Dimensions, Image, Modal, KeyboardAvoidingView, Picker, TouchableWithoutFeedback } from "react-native"
 import { texts } from "../../common/texts"
 import { colors } from "../../common/colors"
-import { WhiteSpace, Flex, Grid, Toast } from "antd-mobile-rn"
+import { WhiteSpace, Flex, Grid, Toast } from "@ant-design/react-native"
 import { Actions } from "react-native-router-flux"
 import { MaterialCommunityIcons, Ionicons } from '@expo/vector-icons'
 import { bindActionCreators } from "redux"

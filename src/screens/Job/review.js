@@ -1,6 +1,6 @@
 import React from 'react';
 import { ScrollView, View, Image, Text, TextInput, StyleSheet } from 'react-native';
-import { Flex, WhiteSpace } from 'antd-mobile-rn';
+import { Flex, WhiteSpace } from '@ant-design/react-native';
 import { Entypo, MaterialCommunityIcons } from '@expo/vector-icons';
 import { texts } from '../../common/texts';
 import { Actions } from 'react-native-router-flux';

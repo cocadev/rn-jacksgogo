@@ -1,7 +1,7 @@
 import React from 'react';
 import MainListItem from '../../../components/MainListItem';
 import { View, Text, Image, StyleSheet, FlatList, TextInput, TouchableOpacity } from 'react-native';
-import { Flex } from 'antd-mobile-rn';
+import { Flex } from '@ant-design/react-native';
 import { colors } from '../../../common/colors';
 import { images } from '../../../common/images';
 import { commonStyles } from '../../../common/commonStyles';

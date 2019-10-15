@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { View, Image, Text, TouchableOpacity, Dimensions } from 'react-native';
-import { Grid } from "antd-mobile-rn";
+import { Grid } from "@ant-design/react-native";
 import api from "../service/api";
 import { texts } from '../common/texts';
 import { Actions } from 'react-native-router-flux';

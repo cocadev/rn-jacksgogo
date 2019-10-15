@@ -6,7 +6,7 @@ import { ScrollView, View, TextInput, Text, StyleSheet, TouchableOpacity, Image,
 import { texts } from '../../../common/texts'
 import { Actions } from 'react-native-router-flux'
 import { colors } from '../../../common/colors'
-import { WhiteSpace, Flex, Checkbox, Grid } from 'antd-mobile-rn'
+import { WhiteSpace, Flex, Checkbox, Grid } from '@ant-design/react-native'
 import { images } from '../../../common/images';
 import { commonStyles } from '../../../common/commonStyles';
 import { bindActionCreators } from "redux";

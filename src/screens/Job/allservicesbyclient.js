@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../../components/Header';
 
 import { View, Text, FlatList, StyleSheet, ScrollView } from 'react-native';
-import { Flex } from 'antd-mobile-rn';
+import { Flex } from '@ant-design/react-native';
 import { FontAwesome } from '@expo/vector-icons';
 import { colors } from '../../common/colors';
 import { texts } from '../../common/texts';

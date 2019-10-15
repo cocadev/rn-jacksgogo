@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Text, Image, View } from 'react-native';
 import { colors } from '../common/colors';
-import { Flex } from 'antd-mobile-rn';
+import { Flex } from '@ant-design/react-native';
 
 export default class CategorySmallItem extends React.Component {
 

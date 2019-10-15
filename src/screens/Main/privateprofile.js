@@ -2,7 +2,7 @@
 // import Header from '../../components/Header';
 
 // import { View, Text, Dimensions, Image, StyleSheet, TouchableOpacity, ScrollView} from 'react-native';
-// import { Flex, WhiteSpace } from 'antd-mobile-rn';
+// import { Flex, WhiteSpace } from '@ant-design/react-native';
 // import { Entypo, MaterialCommunityIcons, Feather, MaterialIcons } from '@expo/vector-icons';
 // import { colors } from '../../common/colors';
 // import { Rating } from 'react-native-ratings';

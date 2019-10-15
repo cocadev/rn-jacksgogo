@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Button, TextInput, KeyboardAvoidingView, StyleSheet,View, TouchableOpacity, Text, Modal, Image } from 'react-native';
 import { GiftedChat } from 'react-native-gifted-chat';
 import { commonStyles } from '../../common/commonStyles';
-import { Flex, Toast, WhiteSpace } from 'antd-mobile-rn';
+import { Flex, Toast, WhiteSpace } from '@ant-design/react-native';
 import { Ionicons, SimpleLineIcons } from '@expo/vector-icons'
 import { colors } from '../../common/colors';
 import { texts } from '../../common/texts';

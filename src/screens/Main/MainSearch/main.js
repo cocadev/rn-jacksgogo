@@ -2,7 +2,7 @@ import React from "react";
 import MainListItem from "../../../components/MainListItem";
 
 import { ScrollView, View, Text, Image, StyleSheet, TouchableOpacity, FlatList, Dimensions, TextInput, Modal } from "react-native";
-import { Grid } from "antd-mobile-rn";
+import { Grid } from "@ant-design/react-native";
 import { texts } from "../../../common/texts";
 import { colors } from "../../../common/colors";
 import { images } from "../../../common/images";

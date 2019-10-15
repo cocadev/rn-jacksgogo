@@ -4,7 +4,7 @@ import MainListItem from '../../components/MainListItem';
 import SettingModal2 from './settingmodal2';
 import GarageView from '../../components/GarageView'
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity } from 'react-native';
-import { Flex, Modal, Slider } from 'antd-mobile-rn';
+import { Flex, Modal, Slider } from '@ant-design/react-native';
 import { Feather, FontAwesome } from '@expo/vector-icons';
 import { colors } from '../../common/colors';
 import { texts } from '../../common/texts';

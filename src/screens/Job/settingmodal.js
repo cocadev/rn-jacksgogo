@@ -5,7 +5,7 @@ import { SERVICEITEMS, SERVICEITEMS2 } from '../../common/staticdata';
 import { texts } from '../../common/texts';
 import { Actions } from 'react-native-router-flux';
 import { colors } from '../../common/colors';
-import { WhiteSpace, Flex, Checkbox } from 'antd-mobile-rn';
+import { WhiteSpace, Flex, Checkbox } from '@ant-design/react-native';
 
 
 

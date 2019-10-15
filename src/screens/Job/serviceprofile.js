@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet, Dimensions, Image, TouchableOpacity, ScrollView } from 'react-native';
-import { Flex, WhiteSpace } from 'antd-mobile-rn';
+import { Flex, WhiteSpace } from '@ant-design/react-native';
 import { Entypo, MaterialCommunityIcons, Ionicons, MaterialIcons } from '@expo/vector-icons';
 import { colors } from '../../common/colors';
 import { texts } from '../../common/texts';

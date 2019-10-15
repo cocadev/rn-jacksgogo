@@ -7,7 +7,7 @@ import Header from "../../components/Header";
 import api from "../../service/api";
 
 import { View, Text, StyleSheet, Dimensions, Image, TouchableOpacity, Modal, ScrollView } from 'react-native';
-import { Flex, WhiteSpace } from 'antd-mobile-rn';
+import { Flex, WhiteSpace } from '@ant-design/react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { colors } from '../../common/colors';
 import { texts } from '../../common/texts';

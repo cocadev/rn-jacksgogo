@@ -4,7 +4,7 @@ import Bar from '../../components/Bar';
 import Header from '../../components/Header';
 
 import { View, Text, Dimensions, Image, TouchableOpacity, ScrollView } from 'react-native';
-import { Flex } from 'antd-mobile-rn';
+import { Flex } from '@ant-design/react-native';
 import { colors } from '../../common/colors';
 import { Actions } from 'react-native-router-flux';
 import { Rating } from 'react-native-ratings';

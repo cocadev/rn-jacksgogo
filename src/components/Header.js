@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, Platform, StyleSheet, Image } from 'react-native';
-import { Modal, ActionSheet, Button } from 'antd-mobile-rn';
+import { Modal, ActionSheet, Button } from '@ant-design/react-native';
 import { Actions } from 'react-native-router-flux';
 import { colors } from '../common/colors';
 import { texts } from '../common/texts';

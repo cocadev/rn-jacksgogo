@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 import { texts } from '../../common/texts';
-import { Switch, Button } from 'antd-mobile-rn';
+import { Switch, Button } from '@ant-design/react-native';
 import { colors } from '../../common/colors';
 import Header from '../../components/Header';
 import { commonStyles } from '../../common/commonStyles';

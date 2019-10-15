@@ -5,7 +5,7 @@ import JobButton from '../../components/JobButton';
 import Carousel from 'react-native-banner-carousel';
 import Header from "../../components/Header";
 import { View, Text, StyleSheet, Dimensions, Image, TouchableOpacity, FlatList, ScrollView, Modal, TextInput } from 'react-native';
-import { Flex, WhiteSpace } from 'antd-mobile-rn';
+import { Flex, WhiteSpace } from '@ant-design/react-native';
 import { colors } from '../../common/colors';
 import { texts } from '../../common/texts';
 import { JOBLISTING } from '../../common/staticdata';

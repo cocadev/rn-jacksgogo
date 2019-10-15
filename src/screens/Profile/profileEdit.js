@@ -4,7 +4,7 @@ import Header from "../../components/Header"
 import { ScrollView, View, TextInput, Text, StyleSheet, TouchableOpacity, Dimensions, Image, KeyboardAvoidingView, Platform, Modal } from "react-native"
 import { texts } from "../../common/texts"
 import { colors } from "../../common/colors"
-import { WhiteSpace, Flex, Toast } from "antd-mobile-rn"
+import { WhiteSpace, Flex, Toast } from "@ant-design/react-native"
 import { Actions } from "react-native-router-flux"
 import {ImagePicker,Permissions,ImageManipulator} from 'expo'
 import Cache from "../../utils/cache";

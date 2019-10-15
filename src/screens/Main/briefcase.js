@@ -2,7 +2,7 @@ import React from 'react'
 import LottieScreen from '../../components/Lottie'
 
 import { View, Text, FlatList, StyleSheet, Image, TouchableOpacity, ScrollView, TextInput } from 'react-native'
-import { Badge, Flex, NoticeBar } from 'antd-mobile-rn'
+import { Badge, Flex, NoticeBar } from '@ant-design/react-native'
 import { MaterialIcons } from '@expo/vector-icons'
 import { colors } from '../../common/colors'
 import { texts } from '../../common/texts'

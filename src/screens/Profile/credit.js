@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native';
 import { texts } from '../../common/texts';
 import { Actions } from 'react-native-router-flux';
-import { List, Flex, Button } from 'antd-mobile-rn'
+import { List, Flex, Button } from '@ant-design/react-native'
 import { colors } from '../../common/colors';
 import { commonStyles } from '../../common/commonStyles';
 import { images } from '../../common/images';

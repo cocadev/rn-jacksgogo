@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, FlatList, StyleSheet } from 'react-native';
-import { Flex } from 'antd-mobile-rn';
+import { Flex } from '@ant-design/react-native';
 import { FEEDBACK } from '../../common/staticdata';
 import { Entypo, FontAwesome } from '@expo/vector-icons';
 import { colors } from '../../common/colors';

@@ -1,7 +1,7 @@
 import * as types from './actionTypes';
 import { Actions } from 'react-native-router-flux';
 import axios from 'axios'
-import { Toast } from 'antd-mobile-rn';
+import { Toast } from '@ant-design/react-native';
 import {BaseUrl} from '../../config'
 
 export function loading(i) {

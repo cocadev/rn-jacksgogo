@@ -4,7 +4,7 @@
 // import Header from "../../components/Header"
 
 // import { ScrollView, View, Image, Text, TextInput, StyleSheet, TouchableOpacity, Modal } from 'react-native'
-// import { Flex, WhiteSpace } from 'antd-mobile-rn'
+// import { Flex, WhiteSpace } from '@ant-design/react-native'
 // import { Ionicons, SimpleLineIcons } from '@expo/vector-icons'
 // import { texts } from '../../common/texts'
 // import { Actions } from 'react-native-router-flux'

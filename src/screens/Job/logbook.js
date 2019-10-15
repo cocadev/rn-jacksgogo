@@ -1,6 +1,6 @@
 import React from 'react';
 import { ScrollView, View, Image, Text, StyleSheet, TouchableOpacity } from 'react-native';
-import { Flex, SegmentedControl, WhiteSpace, Modal } from 'antd-mobile-rn';
+import { Flex, SegmentedControl, WhiteSpace, Modal } from '@ant-design/react-native';
 import { Entypo, Feather, MaterialCommunityIcons } from '@expo/vector-icons';
 import { texts } from '../../common/texts';
 import { Actions } from 'react-native-router-flux';

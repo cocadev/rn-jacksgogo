@@ -1,7 +1,7 @@
 import * as types from "./actionTypes";
 import axios from "axios";
 import { BaseUrl } from "../../config";
-import { Toast, Modal } from "antd-mobile-rn";
+import { Toast, Modal } from "@ant-design/react-native";
 import { Actions } from "react-native-router-flux";
 import _ from 'underscore'
 

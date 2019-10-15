@@ -1,7 +1,7 @@
 import React from 'react'
 import { View, TouchableOpacity, Text, Image, StyleSheet } from 'react-native'
 import { texts } from '../common/texts';
-import { Flex, Toast } from 'antd-mobile-rn';
+import { Flex, Toast } from '@ant-design/react-native';
 import { MaterialIcons } from '@expo/vector-icons';
 import { colors } from '../common/colors';
 import { images } from '../common/images';

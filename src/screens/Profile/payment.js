@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, Image } from 'react-native';
-import { Flex, WhiteSpace } from 'antd-mobile-rn';
+import { Flex, WhiteSpace } from '@ant-design/react-native';
 import Header from '../../components/Header';
 import { commonStyles } from '../../common/commonStyles';
 import { images } from '../../common/images';

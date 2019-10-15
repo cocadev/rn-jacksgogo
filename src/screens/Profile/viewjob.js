@@ -5,7 +5,7 @@ import Bar from '../../components/Bar';
 import Header from '../../components/Header';
 
 import { View, Text, StyleSheet, Dimensions, Image, TouchableOpacity, ScrollView, Modal } from 'react-native';
-import { Flex, WhiteSpace } from 'antd-mobile-rn';
+import { Flex, WhiteSpace } from '@ant-design/react-native';
 import { colors } from '../../common/colors';
 import { texts } from '../../common/texts';
 import { Actions } from 'react-native-router-flux';

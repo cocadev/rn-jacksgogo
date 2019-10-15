@@ -6,7 +6,7 @@ import  {images} from '../../common/images';
 import * as actions from "../../store/common/actions";
 import { bindActionCreators } from "redux";
 import { connect } from "react-redux";
-import { Toast } from 'antd-mobile-rn'
+import { Toast } from '@ant-design/react-native'
 import { Actions } from 'react-native-router-flux';
 import LottieScreen from '../../components/Lottie';
 
