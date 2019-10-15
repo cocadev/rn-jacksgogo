@@ -8,7 +8,8 @@ import { Actions } from "react-native-router-flux"
 import { MaterialCommunityIcons, Ionicons } from '@expo/vector-icons'
 import { bindActionCreators } from "redux"
 import { connect } from "react-redux"
-import { ImagePicker, Permissions, ImageManipulator } from 'expo'
+import { Permissions, ImageManipulator } from 'expo'
+import * as ImagePicker from 'expo-image-picker'
 import api from "../../service/api";
 import { commonStyles } from '../../common/commonStyles';
 

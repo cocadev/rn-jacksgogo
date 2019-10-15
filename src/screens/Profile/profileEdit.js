@@ -6,7 +6,8 @@ import { texts } from "../../common/texts"
 import { colors } from "../../common/colors"
 import { WhiteSpace, Flex, Toast } from "@ant-design/react-native"
 import { Actions } from "react-native-router-flux"
-import {ImagePicker,Permissions,ImageManipulator} from 'expo'
+import { Permissions,ImageManipulator } from 'expo'
+import * as ImagePicker from 'expo-image-picker'
 import Cache from "../../utils/cache";
 import api from "../../service/api";
 import { commonStyles } from "../../common/commonStyles";
