@@ -37,27 +37,27 @@
 
 <p align="center">
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/1.PNG" alt="1">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/1.png" alt="1">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/2.PNG" alt="2">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/2.png" alt="2">
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/3.PNG" alt="3">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/3.png" alt="3">
   </kbd>
   <br/><br/>
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/4.PNG" alt="4">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/4.png" alt="4">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/5.PNG" alt="5">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/5.png" alt="5">
   </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img width="250" style="border-radius: 5px" height="450" src="screenshots/6.PNG" alt="6">
+    <img width="250" style="border-radius: 5px" height="450" src="screenshots/6.png" alt="6">
   </kbd>
 </p>
 
@@ -108,20 +108,17 @@ JacksGoGo is the booking app to find a job both employer and worker. It will be 
   <br>
 </h1>
 
--   [Facebook Login](https://github.com/facebook/react-native-fbsdk)
 -   [React Native](https://github.com/facebook/react-native)
--   [Styled Components](https://www.styled-components.com/)
--   [Reactotron](https://infinite.red/reactotron)
+-   [Expo](https://github.com/expo/expo)
 -   [Eslint](https://eslint.org/)
 -   [Redux](https://github.com/reduxjs/react-redux)
--   [MongoDB](https://www.mongodb.com/)
 -   [Formik + Yup](https://jaredpalmer.com/formik/)
--   [Apollo](https://apollographql.com)
--   [GraphQL](https://github.com/facebook/graphql)
--   [Kraken](https://github.com/wendelfreitas/kraken)
 -   [OneSignal](https://onesignal.com)
--   [AWS](https://aws.amazon.com/pt/)
 -   [Redux-Persist](https://github.com/rt2zz/redux-persist)
+-   [Antd Mobile RN](https://github.com/ant-design/ant-design-mobile-rn)
+-   [Lottie React Native](https://github.com/react-native-community/lottie-react-native)
+-   [Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)
+-   [React Native Firebase](https://github.com/invertase/react-native-firebase)
 
 ## :iphone: **Test**
 
