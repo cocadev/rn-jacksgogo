@@ -7,7 +7,7 @@ export const ME = {
 // briefcase page
 export const BRIEFCASE = [
   {
-    title: 'Group Swimming Class',
+    title: 'Group Swimming',
     icon: 'beach-access',
     image: 'https://i.mydramalist.com/eg3Ddf.jpg',
     description: 'I have a class at 9, would that work? Yes, I can work within your time. Please contact me as soon as possible.',
