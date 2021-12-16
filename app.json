@@ -5,7 +5,7 @@
         "slug": "snack-SyI2_wik4",
         "privacy": "unlisted",
         "platforms": ["ios", "android"],
-        "sdkVersion": "35.0.0",
+        "sdkVersion": "42.0.0",
         "version": "1.0.0",
         "orientation": "portrait",
         "primaryColor": "#cccccc",
