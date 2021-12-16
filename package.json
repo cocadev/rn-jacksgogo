@@ -1,6 +1,6 @@
 {
   "name": "gogo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "No description",
   "author": "eugene",
   "private": true,
@@ -11,7 +11,7 @@
     "@expo/vector-icons": "^10.0.0",
     "accordion-collapse-react-native": "^0.1.9",
     "axios": "^0.18.0",
-    "expo": "^35.0.0",
+    "expo": "^42.0.0",
     "expo-asset": "~7.0.0",
     "expo-constants": "~7.0.0",
     "expo-file-system": "~7.0.0",
