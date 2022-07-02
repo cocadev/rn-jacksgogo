@@ -1,4 +1,4 @@
-<h1 align="center"><b> JacksGoGo React Native App 5</b> </h1>
+<h1 align="center"><b> JacksGoGo React Native App 6</b> </h1>
 
 <p align="center">A minimal, clean and beautiful mobile app to help people find the jobs to book and change the world.</p>
 
